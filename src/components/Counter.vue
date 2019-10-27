@@ -95,12 +95,12 @@ export default {
 }
 
 .yes-count {
-	background-color: #ee5253;
+	background-color: #1dd1a1;
 	cursor: pointer;
 }
 
 .no-count {
-	background-color: #54a0ff;
+	background-color: #ee5253;
 	cursor: pointer;
 }
 
@@ -120,11 +120,11 @@ export default {
 }
 
 .count {
-	font-size: 40px;
+	font-size: 120px;
 }
 
 .percentage {
-	font-size: 26px;
+	font-size: 32px;
 }
 
 .total {
@@ -133,7 +133,7 @@ export default {
 	text-align: center;
 	width: 100%;
 	color: #fff;
-	background-color: #1dd1a1;
+	background-color: #54a0ff;
 	width: 100px;
 	left: calc(100vw / 2 - 50px);
 	padding: 5px 0;
